@@ -13,13 +13,6 @@
 // Version: 2
 // Date: 2007-04-12
 // ---------------------------------------------------
-// Modified by Aneesh 
-// www.bloggerplugins.org
-// Date : 02-08-2011
-// global arrays
-// تعريب و تطوير مدون محترف
-// http://mudwnp.blogspot.com
-// Date : 06-03-2015
 
    var postTitle = new Array();     // array of posttitles
    var postUrl = new Array();       // array of posturls
